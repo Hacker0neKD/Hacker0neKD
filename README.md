@@ -79,14 +79,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hacker0nekd&theme=radical&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hacker0nekd&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker0nekd&theme=radical&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hacker0nekd&theme=radical&margin-w=4)
 
 ---
 
