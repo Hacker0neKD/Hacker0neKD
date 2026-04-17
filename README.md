@@ -16,7 +16,7 @@
 
 
 ## 🌐 Socials:
-[![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&logoSize=auto&color=blue)](www.linkedin.com/in/kuldeepsoni515/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldeep%20Soni-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsoni515/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hackeronekd)
 
 # 💻 Tech Stack:
