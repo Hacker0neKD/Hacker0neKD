@@ -16,7 +16,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/kuldeepsoni515)
+[![LinkedIn]([https://shields.io](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg))](www.linkedin.com/in/kuldeepsoni515)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](www.linkedin.com/in/kuldeepsoni515)
 
 # 💻 Tech Stack:
