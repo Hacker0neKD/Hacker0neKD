@@ -36,21 +36,34 @@
 
 ---
 
-## 🌐🔐 Web Application Security Stack:
+## 🌐🔐 Web Application Security Stack
 
-### 🧪 SAST
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-00A67E?style=for-the-badge&logo=semgrep&logoColor=white)
+💡 Following a structured approach: Recon → Enumeration → Scanning → Exploitation
 
-### 🌐 DAST
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+### 🔍 Recon & Enumeration
+![Subfinder](https://img.shields.io/badge/Subfinder-FF6F00?style=for-the-badge)
+![Amass](https://img.shields.io/badge/Amass-0044CC?style=for-the-badge)
+![Gau](https://img.shields.io/badge/GAU-000000?style=for-the-badge)
+![Waybackurls](https://img.shields.io/badge/Waybackurls-4B0082?style=for-the-badge)
+![Waymore](https://img.shields.io/badge/Waymore-800000?style=for-the-badge)
+![Katana](https://img.shields.io/badge/Katana-FF0000?style=for-the-badge)
+![Puredns](https://img.shields.io/badge/Puredns-006400?style=for-the-badge)
 
-### 🛠️ Pentesting Tools
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+### 🧪 Scanning
+![Nuclei](https://img.shields.io/badge/Nuclei-00A67E?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
-![Dirsearch](https://img.shields.io/badge/Dirsearch-FF5733?style=for-the-badge)
+
+### ⚔️ Exploitation & Testing
+![XSSStrike](https://img.shields.io/badge/XSSStrike-FF4500?style=for-the-badge)
+![Ghauri](https://img.shields.io/badge/Ghauri-8B0000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+
+### 🛠️ Supporting Tools
 ![Gobuster](https://img.shields.io/badge/Gobuster-00A86B?style=for-the-badge)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-FF5733?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
@@ -63,6 +76,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hacker0nekd&theme=radical&hide_border=false)<br/>
