@@ -24,7 +24,6 @@
 ![Semgrep](https://img.shields.io/badge/Semgrep-00A67E?style=for-the-badge&logo=semgrep&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
-![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-FF5733?style=for-the-badge)
