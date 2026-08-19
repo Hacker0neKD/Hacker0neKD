@@ -15,41 +15,41 @@
 
 I'm **Kuldeep Soni**, a technology enthusiast building skills across **Cybersecurity, Data Analytics, Data Science and AI**.
 
-- 🔐 Web Application Security, VAPT, Bug Hunting and Security Testing
-- 📊 Excel, SQL, Power BI, Python, Statistics and Data Analysis
-- 🤖 Currently progressing toward Data Science, Machine Learning and AI
-- 🧩 I enjoy solving real-world problems with messy data and practical projects
-- 🚀 My focus is learning by **practice → problem solving → projects → documentation**
+-  Web Application Security, VAPT, Bug Hunting and Security Testing
+-  Excel, SQL, Power BI, Python, Statistics and Data Analysis
+-  Currently progressing toward Data Science, Machine Learning and AI
+-  I enjoy solving real-world problems with messy data and practical projects
+-  My focus is learning by **practice → problem solving → projects → documentation**
 
-> 🎯 **Current focus:** Building industry-oriented Data Analytics projects while continuing my Cybersecurity journey.
+>  **Current focus:** Building industry-oriented Data Analytics projects while continuing my Cybersecurity journey.
 
 ---
 
-# 📊 Data Analytics | Data Science & AI
+#  Data Analytics | Data Science & AI
 
-## 🛠️ Data Analytics Stack
+##  Data Analytics Stack
 
-### 📗 Excel
+###  Excel
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🗄️ SQL
+###  SQL
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📈 Business Intelligence
+###  Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 🐍 Python & Data Science
+###  Python & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤖 Data Science & AI
+###  Data Science & AI
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
@@ -57,7 +57,7 @@ I'm **Kuldeep Soni**, a technology enthusiast building skills across **Cybersecu
 
 ---
 
-## 📊 Data Analytics Workflow
+##  Data Analytics Workflow
 
 ```text
 Raw / Messy Data
@@ -83,7 +83,7 @@ Business Insights
 Recommendations
 ```
 
-### 🔎 What I Practice
+###  What I Practice
 - Business requirements and problem definition
 - Data profiling and quality checks
 - Missing values and duplicates
@@ -99,14 +99,14 @@ Recommendations
 
 ---
 
-# 📁 Data Analytics Projects
+#  Data Analytics Projects
 
-## 1️⃣ Retail Sales & Profitability Intelligence
+## 1. Retail Sales & Profitability Intelligence
 
 **Domain:** Retail / Sales Operations / Management Reporting  
 **Role:** Junior Data Analyst
 
-### 🎯 Business Objective
+###  Business Objective
 
 Build an interactive analytical solution that helps management understand:
 
@@ -117,14 +117,14 @@ Build an interactive analytical solution that helps management understand:
 - How is performance changing over time?
 - Which areas require management attention?
 
-### 🔄 Project Flow
+###  Project Flow
 
 ```text
 Raw Data → Excel → Power Query → Power Pivot → Data Model
 → DAX → Pivot Tables → Power BI → Interactive Dashboard
 ```
 
-### 📦 Dataset Structure
+###  Dataset Structure
 
 | Table | Rows | Purpose |
 |---|---:|---|
@@ -133,11 +133,11 @@ Raw Data → Excel → Power Query → Power Pivot → Data Model
 | Sales Teams | 36 | Sales agent/team information |
 | Sales Pipeline | 8,801 | Opportunity/deal information |
 
-### 🔑 Key Fields
+###  Key Fields
 
 `account` · `sector` · `revenue` · `employees` · `product` · `series` · `sales_price` · `sales_agent` · `manager` · `regional_office` · `opportunity_id` · `deal_stage` · `engage_date` · `close_date` · `close_value`
 
-### 🧹 Data Cleaning Practice
+###  Data Cleaning Practice
 
 - Missing-value handling
 - Data-type correction
@@ -150,7 +150,7 @@ Raw Data → Excel → Power Query → Power Pivot → Data Model
 - Date standardization
 - Analytical-table preparation
 
-### 💡 Interview Documentation
+###  Interview Documentation
 
 For every transformation:
 
@@ -166,7 +166,7 @@ Expected Business Effect
 
 ---
 
-# 🔐 Cybersecurity
+#  Cybersecurity
 
 ## 🌐 Web Application Security Stack
 
@@ -174,7 +174,7 @@ Expected Business Effect
 Recon → Enumeration → Scanning → Testing → Validation → Responsible Disclosure
 ```
 
-### 🔍 Recon & Enumeration
+###  Recon & Enumeration
 ![Subfinder](https://img.shields.io/badge/Subfinder-FF6F00?style=for-the-badge)
 ![Amass](https://img.shields.io/badge/Amass-0044CC?style=for-the-badge)
 ![Assetfinder](https://img.shields.io/badge/Assetfinder-008000?style=for-the-badge)
@@ -184,17 +184,17 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 ![Katana](https://img.shields.io/badge/Katana-FF0000?style=for-the-badge)
 ![PureDNS](https://img.shields.io/badge/PureDNS-006400?style=for-the-badge)
 
-### 🧪 Scanning
+###  Scanning
 ![Nuclei](https://img.shields.io/badge/Nuclei-00A67E?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
 
-### ⚔️ Web Application Testing
+###  Web Application Testing
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 ![XSS](https://img.shields.io/badge/XSS-FF4500?style=for-the-badge)
 ![SQL Injection](https://img.shields.io/badge/SQL%20Injection-8B0000?style=for-the-badge)
 
-### 🛠️ Supporting Tools
+###  Supporting Tools
 ![Gobuster](https://img.shields.io/badge/Gobuster-00A86B?style=for-the-badge)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-FF5733?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
@@ -202,7 +202,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-# 💻 General Tech Stack
+#  General Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -216,32 +216,32 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
-### 📊 Data Analytics
+###  Data Analytics
 - [x] Excel fundamentals
 - [x] Data cleaning & preprocessing
 - [x] Excel functions
 - [x] Pivot Tables
 - [x] Pivot Table analysis & visualization
-- [ ] Advanced Power Query
-- [ ] Power Pivot / Data Modelling
+- [x] Advanced Power Query
+- [x] Power Pivot / Data Modelling
 - [ ] Power BI
 - [ ] DAX
 - [ ] Dashboard projects
 - [ ] Interview problem solving
 
-### 🐍 Data Science & AI
+###  Data Science & AI
 - [x] Python fundamentals
 - [x] Pandas basics
 - [ ] Advanced Pandas
 - [ ] Statistics
-- [ ] Exploratory Data Analysis
+- [x] Exploratory Data Analysis
 - [ ] Machine Learning
 - [ ] Deep Learning
 - [ ] Generative AI
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 - [x] Web Application Security fundamentals
 - [x] Reconnaissance
 - [x] Vulnerability testing
@@ -252,7 +252,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-# 🌐 Socials
+#  Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kuldeepsoni515/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@hackeronekd)
@@ -260,7 +260,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hacker0nekd&show_icons=true&theme=radical" height="170"/>
@@ -269,7 +269,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker0nekd&theme=radical"/>
@@ -277,7 +277,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
@@ -285,7 +285,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-# 📈 My Development Philosophy
+#  My Development Philosophy
 
 ```text
 Learn
@@ -302,34 +302,34 @@ Review
  ↓
 Improve
  ↓
-Repeat 🔁
+Repeat 
 ```
 
 I believe technology becomes valuable when learning is combined with **hands-on practice, problem solving, real-world projects and clear documentation**.
 
 ---
 
-# 🧠 What I Want My GitHub to Show
+#  What I Want My GitHub to Show
 
 ```text
-📊 Data Analytics Projects
+ Data Analytics Projects
         +
-🐍 Python / Data Science
+ Python / Data Science
         +
-🤖 AI / Machine Learning
+ AI / Machine Learning
         +
-🔐 Cybersecurity Research
+ Cybersecurity Research
         +
-🛠️ Practical Automation
+ Practical Automation
         +
-📝 Technical Documentation
+ Technical Documentation
         =
-🚀 Continuous Growth
+ Continuous Growth
 ```
 
 ---
 
-# ✍️ Quote
+#  Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
@@ -339,7 +339,7 @@ I believe technology becomes valuable when learning is combined with **hands-on 
 
 <div align="center">
 
-### 🚀 Learning. Building. Breaking. Analyzing. Improving.
+###  Learning. Building. Breaking. Analyzing. Improving.
 
 **Thanks for visiting my profile!**
 
