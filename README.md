@@ -85,7 +85,7 @@ Recommendations
 ```
 ---
 
-###  Data Cleaning Practice
+###  Data Cleaning Key Points
 
 - Missing-value handling
 - Data-type correction
