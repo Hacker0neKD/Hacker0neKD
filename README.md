@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Kuldeep+Soni;Web+Application+Security+Enthusiast;Bug+Hunter+%7C+VAPT+%7C+Pentesting;Aspiring+Data+Analyst+%7C+Data+Scientist;Learning+Data+Analytics+%26+AI+🚀"/>
 </h1>
 
-<h3>🔐 Cybersecurity Enthusiast | 📊 Data Analytics | 🤖 Data Science & AI | 🐛 Bug Hunter</h3>
+<h3> 📊 Data Analytics | 🤖 Data Science & AI | 🐛 Bug Hunter </h3>
 <img src="https://komarev.com/ghpvc/?username=hacker0nekd&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 
@@ -13,15 +13,16 @@
 
 ## 👨‍💻 About Me
 
-I'm **Kuldeep Soni**, a technology enthusiast building skills across **Cybersecurity, Data Analytics, Data Science and AI**.
+I'm **Kuldeep Soni**, a technology enthusiast building skills across **Data Analytics, Data Science and AI, Cybersecurity**.
 
--  Web Application Security, VAPT, Bug Hunting and Security Testing
+
 -  Excel, SQL, Power BI, Python, Statistics and Data Analysis
+-  Web Application Security, VAPT, Bug Hunting and Security Testing
 -  Currently progressing toward Data Science, Machine Learning and AI
 -  I enjoy solving real-world problems with messy data and practical projects
 -  My focus is learning by **practice → problem solving → projects → documentation**
 
->  **Current focus:** Building industry-oriented Data Analytics projects while continuing my Cybersecurity journey.
+>  **Current focus:** Building industry-oriented Data Analytics projects .
 
 ---
 
@@ -82,60 +83,7 @@ Business Insights
       ↓
 Recommendations
 ```
-
-###  What I Practice
-- Business requirements and problem definition
-- Data profiling and quality checks
-- Missing values and duplicates
-- Data-type correction
-- Text/category standardization
-- Date transformations
-- Relationships and star-schema modelling
-- DAX measures and KPIs
-- Pivot-table analysis
-- Dashboard design
-- Business problem solving
-- Interview-oriented analytical questions
-
 ---
-
-#  Data Analytics Projects
-
-## 1. Retail Sales & Profitability Intelligence
-
-**Domain:** Retail / Sales Operations / Management Reporting  
-**Role:** Junior Data Analyst
-
-###  Business Objective
-
-Build an interactive analytical solution that helps management understand:
-
-- Where are we making money?
-- Where are we losing money?
-- Which products drive performance?
-- Which customers/accounts represent the largest opportunities?
-- How is performance changing over time?
-- Which areas require management attention?
-
-###  Project Flow
-
-```text
-Raw Data → Excel → Power Query → Power Pivot → Data Model
-→ DAX → Pivot Tables → Power BI → Interactive Dashboard
-```
-
-###  Dataset Structure
-
-| Table | Rows | Purpose |
-|---|---:|---|
-| Accounts | 86 | Customer/account information |
-| Products | 8 | Product information |
-| Sales Teams | 36 | Sales agent/team information |
-| Sales Pipeline | 8,801 | Opportunity/deal information |
-
-###  Key Fields
-
-`account` · `sector` · `revenue` · `employees` · `product` · `series` · `sales_price` · `sales_agent` · `manager` · `regional_office` · `opportunity_id` · `deal_stage` · `engage_date` · `close_date` · `close_value`
 
 ###  Data Cleaning Practice
 
@@ -149,20 +97,6 @@ Raw Data → Excel → Power Query → Power Pivot → Data Model
 - Foreign-key validation
 - Date standardization
 - Analytical-table preparation
-
-###  Interview Documentation
-
-For every transformation:
-
-```text
-Problem Found
-      ↓
-Transformation Applied
-      ↓
-Why It Was Applied
-      ↓
-Expected Business Effect
-```
 
 ---
 
@@ -226,8 +160,8 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 - [x] Pivot Table analysis & visualization
 - [x] Advanced Power Query
 - [x] Power Pivot / Data Modelling
-- [ ] Power BI
-- [ ] DAX
+- [x] Power BI
+- [x] DAX
 - [ ] Dashboard projects
 - [ ] Interview problem solving
 
