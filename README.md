@@ -6,12 +6,14 @@
 </h1>
 
 <h3> 📊 Data Analytics | 🤖 Data Science & AI | 🐛 Bug Hunter </h3>
-<img src="https://komarev.com/ghpvc/?username=hacker0nekd&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=cipher-0x60&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
+
+Hello/ Hallo/ Hola/ привет 🙋🏻‍♂️
 
 I'm **Kuldeep Soni**, a technology enthusiast building skills across **Data Analytics, Data Science and AI, Cybersecurity**.
 
@@ -26,31 +28,34 @@ I'm **Kuldeep Soni**, a technology enthusiast building skills across **Data Anal
 
 ---
 
-#  Data Analytics | Data Science & AI
+##  Data Analytics | Data Science & AI
 
-##  Data Analytics Stack
+###  Data Analytics Stack
 
-###  Excel
+####  Excel
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-###  SQL
+####  SQL
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###  Business Intelligence
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+####  Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=codeforces&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-5E5E5E?style=for-the-badge&logo=dax&logoColor=white)
 
-###  Python & Data Science
+####  Python & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)
 
-###  Data Science & AI
+####  Data Science & AI
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
@@ -58,7 +63,7 @@ I'm **Kuldeep Soni**, a technology enthusiast building skills across **Data Anal
 
 ---
 
-##  Data Analytics Workflow
+###  Data Analytics Workflow
 
 ```text
 Raw / Messy Data
@@ -100,15 +105,15 @@ Recommendations
 
 ---
 
-#  Cybersecurity
+##  Cybersecurity
 
-## 🌐 Web Application Security Stack
+### 🌐 Web Application Security Stack
 
 ```text
 Recon → Enumeration → Scanning → Testing → Validation → Responsible Disclosure
 ```
 
-###  Recon & Enumeration
+####  Recon & Enumeration
 ![Subfinder](https://img.shields.io/badge/Subfinder-FF6F00?style=for-the-badge)
 ![Amass](https://img.shields.io/badge/Amass-0044CC?style=for-the-badge)
 ![Assetfinder](https://img.shields.io/badge/Assetfinder-008000?style=for-the-badge)
@@ -118,17 +123,17 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 ![Katana](https://img.shields.io/badge/Katana-FF0000?style=for-the-badge)
 ![PureDNS](https://img.shields.io/badge/PureDNS-006400?style=for-the-badge)
 
-###  Scanning
+####  Scanning
 ![Nuclei](https://img.shields.io/badge/Nuclei-00A67E?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
 
-###  Web Application Testing
+####  Web Application Testing
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 ![XSS](https://img.shields.io/badge/XSS-FF4500?style=for-the-badge)
 ![SQL Injection](https://img.shields.io/badge/SQL%20Injection-8B0000?style=for-the-badge)
 
-###  Supporting Tools
+####  Supporting Tools
 ![Gobuster](https://img.shields.io/badge/Gobuster-00A86B?style=for-the-badge)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-FF5733?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
@@ -136,7 +141,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-#  General Tech Stack
+##  General Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -150,10 +155,10 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-#  Currently Learning
+##  Currently Learning
 
-###  Data Analytics
-- [x] Excel fundamentals
+####  Data Analytics
+- [x] Excel
 - [x] Data cleaning & preprocessing
 - [x] Excel functions
 - [x] Pivot Tables
@@ -165,40 +170,38 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 - [ ] Dashboard projects
 - [ ] Interview problem solving
 
-###  Data Science & AI
-- [x] Python fundamentals
-- [x] Pandas basics
-- [ ] Advanced Pandas
-- [ ] Statistics
+####  Data Science & AI
+- [x] Python
+- [x] Numpy
+- [x] Pandas
+- [x] Statistics
 - [x] Exploratory Data Analysis
 - [ ] Machine Learning
 - [ ] Deep Learning
+- [ ] NLP
+- [ ] MLOps
 - [ ] Generative AI
 
-###  Cybersecurity
+####  Cybersecurity
 - [x] Web Application Security fundamentals
 - [x] Reconnaissance
 - [x] Vulnerability testing
 - [x] Bug bounty methodology
-- [ ] Advanced Web3 Security
-- [ ] Solidity
-- [ ] Smart Contract Security
 
 ---
 
-#  Socials
+##  Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kuldeepsoni515/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@hackeronekd)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/hacker0nekd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/cipher-0x60)
 
 ---
 
-#  GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hacker0nekd&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker0nekd&theme=radical&layout=compact" height="170"/>
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=cipher-0x60&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=cipher-0x60&theme=radical&layout=compact" height="170"/>
 </div>
 
 ---
@@ -206,7 +209,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 ##  GitHub Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker0nekd&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-0x60&theme=radical"/>
 </div>
 
 ---
@@ -219,7 +222,7 @@ Recon → Enumeration → Scanning → Testing → Validation → Responsible Di
 
 ---
 
-#  My Development Philosophy
+##  My Development Philosophy
 
 ```text
 Learn
@@ -243,7 +246,7 @@ I believe technology becomes valuable when learning is combined with **hands-on 
 
 ---
 
-#  What I Want My GitHub to Show
+##  What I Want My GitHub to Show
 
 ```text
  Data Analytics Projects
@@ -263,7 +266,7 @@ I believe technology becomes valuable when learning is combined with **hands-on 
 
 ---
 
-#  Quote
+##  Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
@@ -273,7 +276,7 @@ I believe technology becomes valuable when learning is combined with **hands-on 
 
 <div align="center">
 
-###  Learning. Building. Breaking. Analyzing. Improving.
+####  Learning. Building. Breaking. Analyzing. Improving.
 
 **Thanks for visiting my profile!**
 
