@@ -11,9 +11,7 @@
 
 ---
 
-<p align="center">
-  <h2>👨‍💻 About Me</h2>
-</p>
+  <h2 align="center">👨‍💻 About Me</h2>
 
 Hello/ Hallo/ Hola/ привет 🙋🏻‍♂️
 
